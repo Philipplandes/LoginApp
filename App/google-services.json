@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "119303149766",
+    "project_id": "logintest-987eb",
+    "storage_bucket": "logintest-987eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119303149766:android:01c9e26db05c0f7b0b9fc7",
+        "android_client_info": {
+          "package_name": "de.techniktv.ed.tzz.url.appstore.techniktv.techniktv.logintest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119303149766-880f15l7t1gjg78l1n6al5rl6d2qqt5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD73PgCsnyB_u3w2lEsWEdHS8qzc2ycLpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119303149766-880f15l7t1gjg78l1n6al5rl6d2qqt5i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
